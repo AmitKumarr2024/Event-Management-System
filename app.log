@@ -1,0 +1,47 @@
+2025-01-15T18:27:26.204Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:29:36.590Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:32:45.163Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:32:48.836Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:33:41.229Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:34:46.785Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:35:39.619Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:36:24.585Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:36:58.642Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:38:42.186Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:45:26.651Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:50:43.052Z [32minfo[39m: Fetching attendees for event
+2025-01-15T18:50:43.146Z [32minfo[39m: Fetched attendees for event
+2025-01-15T18:52:03.478Z [32minfo[39m: Fetching events for attendee
+2025-01-15T18:52:03.554Z [32minfo[39m: Fetched events for attendee
+2025-01-15T18:54:39.461Z [32minfo[39m: Removing attendee
+2025-01-15T18:54:39.594Z [31merror[39m: Error in removing attendee
+2025-01-15T18:55:17.572Z [32minfo[39m: Removing attendee
+2025-01-15T18:55:17.874Z [31merror[39m: Error in removing attendee
+2025-01-15T18:57:43.551Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:58:15.038Z [32minfo[39m: DataBase connected successfully
+2025-01-15T18:59:04.852Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T18:59:05.556Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:00:18.082Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:00:18.600Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:00:52.898Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:00:53.394Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:10:00.032Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:10:00.566Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:10:18.899Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:10:19.484Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:11:30.466Z [32minfo[39m: Fetching events for attendee
+2025-01-15T19:11:30.553Z [32minfo[39m: Fetched events for attendee
+2025-01-15T19:12:03.515Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:12:04.064Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:12:05.137Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:12:05.611Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:12:15.517Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:12:16.064Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:14:58.239Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:14:58.780Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:23:44.452Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:23:45.157Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:32:43.396Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:32:45.897Z [32minfo[39m: DataBase connected successfully
+2025-01-15T19:54:46.116Z [32minfo[39m: Server running successfully at port: 5003
+2025-01-15T19:54:46.812Z [32minfo[39m: DataBase connected successfully
